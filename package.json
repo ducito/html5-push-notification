@@ -1,0 +1,22 @@
+{
+  "name": "html5-push-notification",
+  "version": "1.0.0",
+  "description": "html5-push-notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducito/html5-push-notification.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducito/html5-push-notification/issues"
+  },
+  "homepage": "https://github.com/ducito/html5-push-notification#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  }
+}
